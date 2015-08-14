@@ -5,7 +5,7 @@ use "custombrief";
 
 ///////////////////////////////////////////////////////////////////////////////
 // Tip of the Game
-numTips = "40";
+numTips = "42";
 
 Tip1 = "Use your I key to toggle between Radar modes. None-target only-default-all";
 Tip2 = "Use Ctrl-G to turn on the grid feature when flying.";
@@ -41,14 +41,15 @@ Tip30 = "If no one probes then the enemy will always surprise you, always have t
 Tip31 = "Exploring with an int or fig does not work because their scan range is very low.";
 Tip32 = "Do not attempt to command on the regular server until you have a LOT of experience. You need to know other aspects of the game well to be a successful commander.";
 Tip33 = "TEK is a downloadable tool which can be used to look up scan ranges, damage charts, and much more.";
-Tip34 = "Teamspeak 3 (TS3 for short) is a program that Allegiance players use to communicate with each other by voice.  Visit the website to find out how to use it.";
+\\Tip34 = "Teamspeak 3 (TS3 for short) is a program that Allegiance players use to communicate with each other by voice.  Visit the website to find out how to use it.";
 Tip35 = "Press ENTER to start composing a chat.  Press tilde '~' to access the quick chat menu.  Press TAB when composing a message to change the chat target.";
 Tip36 = "Bios pods have the unique ability to ripcord.  They also are able to equip a heavy cloak on almost all their ships.";
 Tip37 = "You can pick up objects dropped by your enemy or spawned randomly.  The 'T' symbol in F3 indicates an unresearched technology.  Pick them up and return them to base.";
 Tip38 = "Commanders use the team's income as they feel is best for the team.  Not all ships are free.  You must request to purchase them, but the commander will not always say yes.";
 Tip39 = "Pay attention to the map preview shown before entering a game.  Learn what each map looks like and you will be able to find alephs much faster.";
 Tip40 = "Some of the best players in the game fly with a mouse and some fly with a joystick.  A couple even fly with controllers.  You should avoid using the keyboard to fly.";
-
+Tip41 ="The community uses Mumble as it's VOIP client; You can find our server at mumble.rtsquad.org.";//Blacksun 8/15
+Tip42:"Visit Blacksun's repository on our forums, for community made mods.";//Blacksun 8/15
 ///////////////////////////////////////////////////////////////////////////////
 // civ-specific strings
 
@@ -101,7 +102,7 @@ beltersProsperity = "\n *  Invest in \"Reinforcement\", costing %d credits, wher
 beltersDeathmatch = "\n *  Destroy %d enemy ships.";
 
 biosTitle = "Bios";
-biosString = "Intelligence Communiqué";
+biosString = "Intelligence CommuniquÃ©";
 biosNoWin = "Group %s, the council has assigned you to %s. Our agents report stalegene %s forces in the region. Eliminate them. The council observes your lineage.";
 biosDefault = "Group %s, the council has assigned you to %s. Our agents report stalegene %s forces in the region. Locate them, then destroy or capture all of their bases. The council observes your lineage.";
 biosSecondaryObjectives = "\n\nOther objectives include:";
