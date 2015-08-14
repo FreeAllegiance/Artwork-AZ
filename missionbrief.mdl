@@ -49,7 +49,7 @@ Tip38 = "Commanders use the team's income as they feel is best for the team.  No
 Tip39 = "Pay attention to the map preview shown before entering a game.  Learn what each map looks like and you will be able to find alephs much faster.";
 Tip40 = "Some of the best players in the game fly with a mouse and some fly with a joystick.  A couple even fly with controllers.  You should avoid using the keyboard to fly.";
 Tip41 ="The community uses Mumble as it's VOIP client; You can find our server at mumble.rtsquad.org.";//Blacksun 8/15
-Tip42:"Visit Blacksun's repository on our forums, for community made mods.";//Blacksun 8/15
+Tip42 ="Visit Blacksun's repository on our forums, for community made mods.";//Blacksun 8/15
 ///////////////////////////////////////////////////////////////////////////////
 // civ-specific strings
 
