@@ -3,3 +3,6 @@ ShowLastOrders = 1;
 
 // Parameter: Number of chat lines in the lobby. Keep between 1 and 10.
 NumChatLinesLobby = 10;
+
+// Was missing from AZ version.
+NumChatLines = 10;

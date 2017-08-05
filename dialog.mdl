@@ -235,6 +235,7 @@ StationPaneImage =
 //////////////////////////////////////////////////////
 
 chatListPane = ChatListPane(Point(355, Add(8,Multiply(12,NumChatLines)) ) );
+//chatListPane = ChatListPane(Point(355, 128));
 chatBackgroundImage = ImportImageFromFile("cortui_core_concommdisplay.png", false);
 
 chatClipImage = SwitchImage(
